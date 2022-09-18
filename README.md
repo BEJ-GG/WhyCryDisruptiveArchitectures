@@ -54,4 +54,4 @@ Esse fluxo define como o audio percorre e a IA retorna o motivo do choro.....
 </h1>
 
 
-### Descrição da Integração e Fluxograma em vídeo: https://youtu.be******
+### Descrição da Integração e Fluxograma em vídeo: https://youtu.be/v6mEJrI_3Xs
