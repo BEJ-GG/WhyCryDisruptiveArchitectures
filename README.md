@@ -29,6 +29,7 @@ Enzo Bense Pagliacci     – RM: 87203 </br>
 Gabriel Jesus Dantas     – RM: 88737 </br>
 Guilherme Beck Lobo      – RM: 87531 </br>
 Gustavo Lopes Carlin     – RM: 87339 </br>
+2TDSS</br>
 Jhoctan de Deus Teixeira – RM: 88206 </br>
 
 # Informações: 
